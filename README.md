@@ -7,6 +7,7 @@
 - [daily guide](daily/README.md)
 - [daily template](daily/daily-guide.md)
 - [2026-05-17](daily/2026-05/2026-05-17.md)
+- [2026-05-15](daily/2026-05/2026-05-15.md)
 - [2026-05-10](daily/2026-05/2026-05-10.md)
 - [2026-05-09](daily/2026-05/2026-05-09.md)
 
